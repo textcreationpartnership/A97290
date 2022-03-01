@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A censure of Mr. Judas Tull his lampoon</title>
+            <author>Trepidantium Malleus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97290</idno>
+            <idno type="STC">Wing Y76A</idno>
+            <idno type="STC">ESTC R220698</idno>
+            <idno type="EEBO-CITATION">99897753</idno>
+            <idno type="PROQUEST">99897753</idno>
+            <idno type="VID">132805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2539:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A censure of Mr. Judas Tull his lampoon</title>
+                  <author>Trepidantium Malleus.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Marshall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Samuel Young.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Also issued as part of: Young, Samuel.  A confirmation of a late epistle to Mr. George Keith, and the reformed Quakers.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tull, Judas --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="censure">
+            <pb facs="tcp:132805:1"/>
+            <!-- PDF PAGE 83 -->
+            <pb facs="tcp:132805:2"/>
+            <!-- PDF PAGE 84 -->
+            <pb n="1" facs="tcp:132805:2"/>
+            <!-- PDF PAGE 84 -->
+            <head>A CENSURE OF Mr. <hi>Judas Tull <hi>His Lampoon.</hi>
+               </hi>
+            </head>
+            <p>
+               <hi>NAT. Tull!</hi> One of the moſt infamous Names in the City, whoſe Life is as a con<g ref="char:EOLhyphen"/>tinued Vacation; and though a Man pro<g ref="char:EOLhyphen"/>feſſing the Study of Law, all the Year with him, is <hi>out of Term.</hi> His whole Work is to do Nothing, or worſe than Nothing; to Lampoon Miniſters, Mr. <hi>Alſop</hi> and Mr. <hi>Williams</hi> in parti<g ref="char:EOLhyphen"/>cular, with Storys to my knowledge he never believed, nor heard, but were the Reſult of a fruitful pregnant <hi>Invention.</hi> In ſhort, his Life is a Syſtem of Iniquity; he would betray his beſt Friend, and Maſter too, for leſs than Thirty
+<pb n="2" facs="tcp:132805:3"/>
+               <!-- PDF PAGE 85 -->Pieces of Silver, with <hi>Judas</hi> his elder Brother; unleſs the Mony be told by Pence, and this after Vows and Proteſtations (repeated often) of Fidelity to me all his Days. He is a Man, tho' of the beſt Wit, yet the worſt Morals. Thus is he like <hi>Nebuchadnezzars</hi> Image, his Head of Gold and Feet of Clay. The monſtrous Fables he told of others, as well as my ſelf; is one Reaſon among many? Why ſo many Loath his Converſation. Let him never Repeat o'er the Creed in Company, leaſt they that hear him ſhould disbelieve it, as much as himſelf, thinking nothing true that he ſays. I have heard of a Seaman that was thought to be dead, being to be thrown over-board; ſays he, <hi>I am not dead.</hi> Said one, I do not believe him, he was ever ſuch a lying Rogue.</p>
+            <p>This is the Monſter the Bapts have choſen, when <hi>Minge</hi> wrote like a Jack-Pudding, to Lampoon me like a Buffoon. They found the one feeble at arguing, and therefore imployed this ſtoutly to Rave to get a Penny. A Club of them treated him from Night to Night, to make a Libel againſt me. How, ſent they him away? Not a freſh Man ſure? He thinks he hath too much Wit.—Were theſe Plungers plung'd into their Liquors? No; but the Li<g ref="char:EOLhyphen"/>quor were poured down a-main. It is well the Cuſtom here is <hi>pouring,</hi> elſe were they plunged in, they would drink up a River.</p>
+            <p>In <hi>Johns Baptiſm,</hi> That they then talked of, there is nothing belongs to them but, <hi>O Genera<g ref="char:EOLhyphen"/>tion of Vipers!</hi> A perpetual blemiſh to them and their Cauſe.</p>
+            <pb n="3" facs="tcp:132805:3"/>
+            <!-- PDF PAGE 85 -->
+            <p>
+               <hi>Nat. Tull,</hi> of whoſe Atheiſm and Madneſs; all the City hath long rung, is a Chriſpian Bapt. his Father was a Lay-Speaker among them.</p>
+            <p>In ſome Swearing Company, tho' reſtrain'd before others, <hi>Judas</hi> hath ſworn at ſuch a rate, no <hi>Gallant</hi> could out do him; this he could not deny when reprov'd by ſome of us.</p>
+            <p>For Drunkenneſs: he can continue from Morning till Night.—Wo to you of this Club, that thus puts the Bottle to his Mouth. For another Sin, how ſhameful is it, when talking of the open common Whoredoms of Mr. T. to ſay in all this, <hi>You do but draw my Picture!</hi> This, I will give an Oath, I and o<g ref="char:EOLhyphen"/>thers heard him ſay.</p>
+            <p>For Idleneſs, who will truſt him? I once em<g ref="char:EOLhyphen"/>ploy'd him in a Law buſineſs, pittying his Po<g ref="char:EOLhyphen"/>verty; and after he received my Money, he ſerved me ſuch a Trick, that it is no wonder the Bapts themſelves never care to employ him, except it be in Lampooning the true Bap<g ref="char:EOLhyphen"/>tiſts. What he did with his large Patrimony, and afterwards went up and down like a ſecond <hi>Cain.</hi> What attempts he made againſt his own — Fame talkt much of: I once ſpared no pains nor coſt upon him, hoping his Refor<g ref="char:EOLhyphen"/>mation on fair Promiſes; but ſome men were true Prophets who told me I would repent it. He about two Years ſince, being poor, deſired me to get him a Place; and after ſome ſad Re<g ref="char:EOLhyphen"/>flections, That he had forgotten his Philology, ſaid he could wiſh to become a Boy again, and deſir'd me to help him. I conſulted his
+<pb n="4" facs="tcp:132805:4"/>
+               <!-- PDF PAGE 86 -->Brother, who told me, that he could not go<g ref="char:EOLhyphen"/>vern himſelf, but muſt be in ſubjection; when I tryed him a few days, and entertain'd him freely, and gave him a great number of va<g ref="char:EOLhyphen"/>luable Books: I told him he was a forward Youth, and needed no Diſcipline here, but if he play'd the <hi>Truant,</hi> and was unneceſſarily ab<g ref="char:EOLhyphen"/>ſent at learning time, I would put him off; but ſaid I, what if you come in Drunk? You muſt be ſtrapt. To which he conſented, But tho he, as well as ſome others once, never were like to have one ſtrap for his Book, yet he muched ſo often, I grew weary of him: And perhaps he thought, ſhould he be ſtrapt as often as Drunk, it might ſometimes be more than once a day. When the poor Old Woman dyes, to whom he is ſaid to be an intolerable Burden: who ſhall take care of him? will he not go up and down ready to ſtink for want of good Lin<g ref="char:EOLhyphen"/>nen, like a Brother Pot-Companion—</p>
+            <p>
+               <hi>Nat. Tull,</hi> as all know, was once a great Ad<g ref="char:EOLhyphen"/>vocate for me about the wonderful ſucceſs of my continued pains with a few, and my Diſci<g ref="char:EOLhyphen"/>pline alſo) I being paid according to ſucceſs. What he told the <hi>Dean</hi> himſelf is well known: He being ſometimes at my Houſe, Day and Night, but now unſays all, and the occaſion was, I found him lately as drunk as drunken<g ref="char:EOLhyphen"/>neſs it ſelf, and ſo abuſive, that I thought his Converſation intolerable.</p>
+            <p>A great <hi>Grecian</hi> among the Bapts, before their great Men on the Examination of a Lad, what he had done in ten Weeks, took me by the hand and ſaid, <hi>I beg your pardon; I muſt
+<pb n="5" facs="tcp:132805:4"/>
+                  <!-- PDF PAGE 86 -->confeſs, I have ridicul'd the Wonders told of you: All is true, but how ſuch great Work is done in ſo little time, I cannot imagine. I will hereafter be as great an Advocate for you, as</hi> I <hi>have been a Cenſurer.</hi>
+            </p>
+            <p>In anſwering vain Objections againſt me, there is no end; who ſhall judge a Man's A<g ref="char:EOLhyphen"/>ctions that knows not his Circumſtances? I am paid ſometimes more then ten Pounds for one Years learning only, beſides Table. But now to the Libel. In ſhort, <hi>Judas,</hi> thou and ma<g ref="char:EOLhyphen"/>ny know tho' ſome doe not.</p>
+            <p n="1">1. that Mr. <hi>Williams,</hi> Mr. <hi>Woodhouſe,</hi> and others, appointed a Meeting at my Houſe, about Storys ſet on foot by Mr. <hi>B.</hi> concerning the Son of Mr. <hi>S.</hi> two years ſince about Learning, and Diſcipline. All ſaid, never were greater Lies told, than thoſe againſt me. I ſatisfy'd others that ſend for me, or come fairly to me. This is well known.</p>
+            <p n="2">2. What Methods I take, I can do my great work by, not without, and I have tryed all. All is done to more than the ſatisfaction of the beſt I educate, let their Years be what they will. Who regards them in <hi>Weſtminſter, Wincheſter,</hi> and many famous Schools: He that comes to me muſt ſpeak Latin or Greek in Common diſ<g ref="char:EOLhyphen"/>courſe when he is able, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. I have conſulted Aged Miniſters, and learn<g ref="char:EOLhyphen"/>ed Gentlemen for Advice.</p>
+            <p n="4">4. Mr. <hi>Benjamin Keach</hi> a Bapt, told me that all the Bapts were ſatisfied when I wrote them a Letter about an ignorant Boy, a Preach<g ref="char:EOLhyphen"/>er of theirs, of unparalle'ld Imprudence.</p>
+            <pb n="6" facs="tcp:132805:5"/>
+            <!-- PDF PAGE 87 -->
+            <p n="5">5. I meet with thoſe of many Years more than twenty, that cannot read an <hi>Engliſh</hi> Chap<g ref="char:EOLhyphen"/>ter and Pſalms well, nor talk common Senſe, Yet greedy after Learning. They (and their Fa<g ref="char:EOLhyphen"/>thers too) deſire they may be govern'd as others are. Some of ten Years old are more wiſe, and orderly than ſome of more than twenty.</p>
+            <p n="6">6. I am very glad when I can get a good Uſher, which ſometimes I have had a Conſide<g ref="char:EOLhyphen"/>rable Time. Then I only teach Learning, and Diſcipline I leave to him. And I wiſh I could always ſo ſpeed. I ſhould not endure thoſe pains I ſometimes do.</p>
+            <p n="7">7. No Schollars live more pleaſant then mine do. I have often ſaid it, and can prove it.</p>
+            <p n="1">1. That not one Sickly Lad ever came to me but he grew Healthy. Of which I have now one great Inſtance.</p>
+            <p n="2">2. Never a Vile Boy whom none could Tame or make bad only at a Common Rate, but hath been ſober. Another ſuch Inſtance is now with me. As great as ever was known.</p>
+            <p n="3">3. No Dunce, who could do nothing in ma<g ref="char:EOLhyphen"/>ny Years ever ſtay'd here, but Learned Con<g ref="char:EOLhyphen"/>ſiderably. One as much like a Natural as was poſſible for one to be, that was none, in a few Months made and talk true Latin often accord<g ref="char:EOLhyphen"/>ing to Rule. A Blind Perſon from his Infan<g ref="char:EOLhyphen"/>cy, That the Reverend Mr. <hi>Maudit</hi> takes care of, and commonly Examins every Saterday in the afternoon, ſince <hi>July</hi> laſt, hath Learned, as <hi>Lillys Grammar, Cato, Fables, Ovid de Triſtibus.</hi> So a Great way in <hi>Ovid Metamorphoſis, Eraſmus, (Formulae Loquendi almoſt</hi> Memoriter, <hi>Nomen
+<pb n="7" facs="tcp:132805:5"/>
+                  <!-- PDF PAGE 87 -->Clatura,</hi> ſo) and other Books. Hath conſtrued many Scores of Chapters in <hi>Latin</hi> in the Old and New Teſtament. Hath made not only good Epiſtles, but Theams above 2 Months. Talk true <hi>Latin</hi> Commonly all day. And Occaſio<g ref="char:EOLhyphen"/>nally Learned the Kings of <hi>England,</hi> with Re<g ref="char:EOLhyphen"/>markable Paſſages in their Reigns. The Twelve <hi>Caeſars</hi> out of <hi>Leigh.</hi> Saterday Nights and Sab<g ref="char:EOLhyphen"/>bath Day Nights. All Clarks lives in Quarto, and many Divinity Books.—Much more have ſome Learned in the Time, and he had, if not blind. Theſe things are not done in a Corner, <hi>Come and ſee.</hi> May I ſay to all Sober Men I know. Not to others, that on a deſign ſhall deny what they confeſs here.</p>
+            <p>Alas! Had I given this Poor un-imployed Mercenary <hi>Jack</hi> ſo much Money to write againſt them, as they gave him to write againſt me, he had ſoon done it: He cares for no Cauſe, but for Money, but I muſt Learn that Rule. <hi>Pitty the Poor.</hi> I ſtopt a Severe Letter he wrote to Dr. <hi>Ker</hi> for what he did to a Young Man, and Juſtified the Doctor: As for other Stories ſhewn up and down in the <hi>Lampoon,</hi> which I have not yet ſeen I confeſs.</p>
+            <p n="1">1. I have anſwered <hi>W. C. his Trepidantium Malleus Intrepidanter Malleatus,</hi> and <hi>B. C.</hi> the Quaker to their Confuſion, and the Satisfaction of all Men, and this Accuſer too. Let him ſay what he will, I care not to be told of <hi>Inter<g ref="char:EOLhyphen"/>vals</hi> from <hi>Fits</hi> from them that have none from theirs Roaring when he ran to hear. (Oh)! Men condemned to dye, was it in that Terrible Fit he feared his Turn would be the next Seſſions?
+<pb n="8" facs="tcp:132805:6"/>
+               <!-- PDF PAGE 88 -->He Rambles like this Brother Mr. <hi>Minge Make Water,</hi> (did he ſo when Dipt as well as others.) In the Title he Names only my <hi>News Years Gift</hi> Occaſional Paſſages there. This is to Sa<g ref="char:EOLhyphen"/>tisfie the Wiſe Bapts that ſhall ſay. <hi>This is no Anſwer to the Epiſtle to</hi> Mr. <hi>Keath.</hi> — In the Epiſtle he mentions, The Three Particulars in my Epiſtle. <hi>That John declares he Plunged no one, &amp;c.</hi> This is to Satisfy the Mob that ſhall ſay why is not that Epiſtle Anſwer'd. Was ever ſuch a Vile Trick done till Mr. <hi>Make Wa<g ref="char:EOLhyphen"/>ter</hi> wrote.</p>
+            <p n="2">2. This <hi>Judas</hi> had a hand in <hi>Socks and Bus<g ref="char:EOLhyphen"/>kins</hi> againſt Mr. <hi>Alſop,</hi> where he is call'd <hi>Lunatick, Madman, Graceleſs Perſon,</hi> as well as I.</p>
+            <p n="3">3. For my Religion, I have pleaded Old Pro<g ref="char:EOLhyphen"/>teſtaniſms againſt Innovators. The Criſpians ſaid I had written well againſt the Baxterians they ſaid, I had written well againſt the Criſpians and the Anabaptiſt ſaid I had done well againſt both. And they both now ſay, I have written unanſwerably againſt the Anabaptiſts. And the few good Old Proteſtants in <hi>London,</hi> ſay I have done well againſt them all.</p>
+            <p>
+               <hi>Ob.</hi> But have I not done what I blamed M-<hi>Jacob</hi> for ſaying againſt the Bapts. No, nor ne<g ref="char:EOLunhyphen"/>ver thought what he ſaid. See my <hi>Apology.</hi> It is not convenient now to Name.</p>
+            <p>I dare Challenge any Man to tell what Bap<g ref="char:EOLhyphen"/>tiſt ever wrote ſo faverably of the Bapts, as I in that Epiſtle to Mr. <hi>Keath,</hi> Tho I confeſs I am ſorry none of them talk with half that Indig<g ref="char:EOLhyphen"/>nation
+<pb n="9" facs="tcp:132805:6"/>
+               <!-- PDF PAGE 88 -->againſt their Briſtol Reformer and Siſter Roe, as againſt me for my Neceſſary mention<g ref="char:EOLhyphen"/>ing it:</p>
+            <p>For my part, I ſpeak it Soberly I do be<g ref="char:EOLhyphen"/>lieve. The Three Dippers lately diſcovered, and many more have done, ſomtimes what the reforming Briſtoll Rogue did, and I will give this reaſon. The other Siſters were ſilent, and made no Confeſſion, till Mrs. <hi>Roe</hi> told all. Now had ſhe been ſilent too, the thing had continued as a ſecret—I challenge any Bapt in that City to deny the ſtory.</p>
+            <p>And becauſe the learned Bapts in this City, appear not in Print knowing they cannot an<g ref="char:EOLhyphen"/>ſwer my <hi>Epiſtle</hi> and therefore imply a <hi>Minge,</hi> and a Tull. I am ſorry I am forcced to Challenge them an to open Diſputation, about the Three propoſitions in that <hi>Epiſtle,</hi> That <hi>John</hi> the <hi>Baptiſt declares he plunged No Man &amp;c.</hi> And alſo about my Three propoſiti<g ref="char:EOLhyphen"/>ons in this Book, but if they will deny the Second, I will not ſwear to it, For I grew weary of Fools or Knaves. <hi>Minge</hi> cannot hide his folly and ignorance.</p>
+            <q>
+               <p>Projicit ampullas &amp; ſeſquipedalia verba.</p>
+               <bibl>
+                  <hi>Hor. de Arte Poet.</hi>
+               </bibl>
+            </q>
+            <pb n="10" facs="tcp:132805:7"/>
+            <!-- PDF PAGE 89 -->
+            <p>One would think every word in <hi>Mat.</hi> 3.11. were againſt plunging.</p>
+            <p>
+               <hi>J. John</hi> that opened the way for the Goſpel; and its plain ſimple Adminiſtration, could he bring in a Yoke worſe then Circumciſion? Muſt this be taken away that ſignifies mortification of what all are inclin'd to, for a thing that tends to, and too often ends in Uncleanneſs?</p>
+            <p>
+               <hi>Indeed</hi> — Indeed <hi>John</hi> if thou didſt plunge, I cannot well underſtand thy Words, nor <hi>Luke</hi> the beſt <hi>Grecian</hi> neither.</p>
+            <p>
+               <hi>Baptize</hi> — Not Bapt or Plunge; for after much conſideration, I now declare 'its my Opini<g ref="char:EOLhyphen"/>on, that <hi>Baptizo</hi> never ſignifies to Plunge in all the New Teſtament.</p>
+            <p>
+               <hi>You</hi> — What plunge the tender Sex? What thoſe that had Pains in the Teeth, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>With Water</hi>—Not <hi>in</hi> it; for ſome might ſay, <hi>Minge, Minge;</hi> and if St. <hi>Francis</hi> whipt the Devil till he made him roar for <hi>piſſing in the ho<g ref="char:EOLhyphen"/>ly Pot,</hi> as the Papiſts Fable; what do they de<g ref="char:EOLhyphen"/>ſerve who thus do in the Water of Baptiſm? Shew your ſelves Men, O ye Tranſgreſſors, (Dip<g ref="char:EOLhyphen"/>pers) ſay it if you dare, that God works ſuch a Wonder to ſtop the Fountains of Nature in you all in your Dippings<g ref="char:punc">▪</g> But if you ſay, this is but an Argument <hi>a poſteriori,</hi> not <hi>a priori.</hi> I An<g ref="char:EOLhyphen"/>ſwer jocularly: I believe you find ſome of you, in the Water, it is from both. Thus have you, like the Woman in the time of King <hi>Solomon,</hi> took away a living Child, and put a dead one in its Place, taken away true Baptiſm, and put in Plunging, not as in a clean Place indeed,
+<pb n="11" facs="tcp:132805:7"/>
+               <!-- PDF PAGE 89 -->but ſometimes as in a Jakes, where they are dipt in Waters of more ſorts than one. Away filthy Beaſts.</p>
+            <p n="1">1. What good News would there be for Phyſitians and Apothecarys, ſhould plunging prevail, which Heaven forbid? Come away Mr. Doctor. One is grown deafiſh,—Come Mr Apotheccary, Another is a Barking, as if he would bring up his Heart—Come my Wife, my Daughter, ſhe will die by this Cold, as others have done. How is it ſo many Bapts look pale, more than others.</p>
+            <p>I was told before I ſaw the <hi>Lampoon</hi> (which I ſaw not till all afore written was done) that there was <hi>Tulls</hi> Hint of <hi>Sodomy,</hi> which he had privately hinted alſo, what will they invent next. Several things I ſhould ſay and do about ſome other matters, are ſuch miſtakes, My Friends, are angry with me, that I reply'd and expect a promiſe, I ſhall not do it again. This being, ſay they, a Trick to divert you from your Invinceable Arguments againſt Plunging, for ſuch, (Mr. <hi>Fuller,</hi> Mr. <hi>Woodhouſe,</hi> Mr. <hi>Show<g ref="char:EOLhyphen"/>er,</hi> Mr. <hi>Keith</hi> and others ſay they are) I cloſe all.</p>
+            <pb n="12" facs="tcp:132805:8" rendition="simple:additions"/>
+            <!-- PDF PAGE 90 -->
+            <p>O <hi>God, if ever I abuſed my Body with Mankind, this way hinted; or ever once did any thing that had a tendency thereunto; (or ever abuſed my Body with any Womankind either) Let this Sin be as the unpardonable Sin, never to be forgiven in this World, nor in the World to come,</hi> Amen, Amen.</p>
+            <p>
+               <hi>Theſe Men, as Fame ſays, have ſometimes con<g ref="char:EOLhyphen"/>feſt they could not charge me with bad Morals, but only with imprudence, A high Commenda<g ref="char:EOLhyphen"/>tion from ſuch Infamous Perſons.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:132805:8"/>
+            <!-- PDF PAGE 90 -->
+         </div>
+      </body>
+   </text>
+</TEI>
